@@ -4,7 +4,7 @@
   "description": "Calculates and displays token counts for OpenAI models in real-time",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repository.git"
+    "url": "https://github.com/cameronspaul/llm-codebase-tokenizer"
   },
   
   "version": "0.0.1",
